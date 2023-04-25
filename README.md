@@ -3,7 +3,7 @@
 
 ## Visualização
 <p>Para visualizar o projeto, basta clicar na imagem abaixo: </p>
- <a href="[https://github.com/Samuel-Santana109/projeto-cordell](https://samuel-santana109.github.io/projeto-cordell/)" target="_blank"><img src="https://www.shutterstock.com/image-vector/illustration-brazilian-couple-harvesting-sugar-600w-2128787906.jpg" width="50" height="50" target="_blank"> </a>
+ <a href="https://samuel-santana109.github.io/projeto-cordell/" target="_blank"><img src="https://www.shutterstock.com/image-vector/illustration-brazilian-couple-harvesting-sugar-600w-2128787906.jpg" width="50" height="50" target="_blank"> </a>
  
  ## Tecnologias Utilizadas
  - Html 
