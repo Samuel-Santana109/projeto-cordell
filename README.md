@@ -8,7 +8,7 @@
  ## Tecnologias Utilizadas
  - Html 
  - Css 3
- -
+ 
  ## Instalação 
  - Clone o repositório: git clone https://github.com/Samuel-Santana109/projeto-cordell.git
  - Abra o arquivo index.html em seu navegador
